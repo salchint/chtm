@@ -4,4 +4,4 @@
 chtm - Change system time utility for Windows
 
 ## Synopsis
-chtm [[-]<milliseconds>]
+chtm [[-]_milliseconds_]
